@@ -26,8 +26,6 @@ Additionally, **tracing and monitoring** are integrated with [SigNoz](https://si
 
 ## 🖼️ Screenshots
 
-*(Add your screenshots in a `/screenshots` folder and update paths below)*  
-
 ### 🔑 Main Window  
 ![Main Window](screenshots/main.png)  
 
